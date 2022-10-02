@@ -43,7 +43,7 @@
 body{
     font-family: 'Red Hat Display', sans-serif;
     font-size: 16px;
-    max-height: 100vh;
+    height: 100vh;
     display: flex;
     flex-direction: column;
     justify-content: center;
