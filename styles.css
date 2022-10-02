@@ -95,6 +95,7 @@ main{
 p{
     margin-bottom: 1.5rem;
     color: var(--Desaturated_blue);
+    text-align: center;
 }
 
 .plan{
